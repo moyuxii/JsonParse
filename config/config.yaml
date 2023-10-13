@@ -1,0 +1,7 @@
+itt:
+  url:
+    login: http
+    class: http
+    answer: http
+  companyId: 1
+  Accept: application/x.api.v1+json
